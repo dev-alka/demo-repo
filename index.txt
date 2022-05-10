@@ -1,2 +1,4 @@
 hi this is sample text file
 commiited to test git commands
+
+hi changes made to index.txt
